@@ -1,0 +1,16 @@
+{
+  "id": "com.yourname.myplugin",
+  "name": "我的插件",
+  "version": "1.0.0",
+  "author": "你的名字",
+  "description": "一句话说明这个插件做什么",
+  "entry": "main.xaml",
+  "configPage": "config.xaml",
+  "category": "工具",
+  "homepage": "https://github.com/1740443398/pcl-plugin-template",
+  "titlebar": true,
+  "titlebarText": "我的插件",
+  "titlebarIcon": "M448 64h128v320h320v128H576v320H448V512H128V384h320z",
+  "needNetwork": true,
+  "minVersionCode": 100
+}
