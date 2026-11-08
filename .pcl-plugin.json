@@ -1,0 +1,11 @@
+{
+  "spec": "pcl-plugin-template/1",
+  "template": "1740443398/pcl-plugin-template",
+  "templateVersion": 1,
+  "description": "官方插件模板标记文件。PCL 插件广场只收录带这个文件、且 template 字段指向官方模板的仓库。",
+  "rules": [
+    "不要删除本文件",
+    "不要修改 template 字段",
+    "改 templateVersion 不会让插件更容易被收录"
+  ]
+}
